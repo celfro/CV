@@ -10,7 +10,7 @@ I am an enthusiastic software developer and a Makers Academy graduate, with a ba
 | [Bookmark Manager](https://github.com/celfro/Bookmark-manager) | Week project to build a bookmark manager with a database.| Ruby, RSpec/Capybara, PostgreSQL |
 | [MakersBnB](https://github.com/celfro/MakersBnB) | One week project working in an Agile team, building a clone of AirBnB| Ruby,JavaScript, Bootstrap, RSpec/Capybara, DataMapper, PostgreSQL |
 | [Thermostat challenge](https://github.com/celfro/thermostat-challenge) | A single-page JavaScript app presenting a thermostat drawn from a weather API. | JavaScript, Jasmine, JQuery |
-| [Greenpeas UK: Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Makers final project, working in an Agile team in the last two weeks of the course. presenting news headlines drawn from a news API. | Swift |
+| [Greenpeas UK: Guilt Tripper](https://github.com/celfro/greenpeas-uk) | Makers final project, working in an Agile team in the last two weeks of the course. presenting news headlines drawn from a news API. | Swift |
 
 ## Skills
 
@@ -19,6 +19,7 @@ I am an enthusiastic software developer and a Makers Academy graduate, with a ba
 
 Tech:
 
+- Ruby
 - JavaScript
 - HTML, CSS
 - postgress SQL
